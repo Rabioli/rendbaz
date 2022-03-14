@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sysadim on EsFix</title>
-    <link>https://hugo-toha.github.io/tags/sysadim/</link>
-    <description>Recent content in sysadim on EsFix</description>
+    <title>sysadim on Kallix</title>
+    <link>https://isa.jumpingcrab.com/tags/sysadim/</link>
+    <description>Recent content in sysadim on Kallix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Tue, 08 Jun 2021 18:00:23 -0600</lastBuildDate><atom:link href="https://hugo-toha.github.io/tags/sysadim/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Tue, 08 Jun 2021 18:00:23 -0600</lastBuildDate><atom:link href="https://isa.jumpingcrab.com/tags/sysadim/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>Webhosting</title>
-      <link>https://hugo-toha.github.io/posts/hosting/</link>
+      <link>https://isa.jumpingcrab.com/posts/hosting/</link>
       <pubDate>Tue, 08 Jun 2021 18:00:23 -0600</pubDate>
       
-      <guid>https://hugo-toha.github.io/posts/hosting/</guid>
+      <guid>https://isa.jumpingcrab.com/posts/hosting/</guid>
       <description>Puedo proveer un espacio en el servidor (donde esta página esta alojada) dedicado a mostrar y guardar o sostener (hosting) tu sitio web.
 price : $120-$1000 unit : mes services:
  1GB-10GB Espacio en el disco 10 GB - 100 GB Uso de datos (Las páginas web pesan KBs) Asistencia en horas laborales  </description>

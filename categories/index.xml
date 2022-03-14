@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on EsFix</title>
-    <link>https://hugo-toha.github.io/categories/</link>
-    <description>Recent content in Categories on EsFix</description>
+    <title>Categories on Kallix</title>
+    <link>https://isa.jumpingcrab.com/categories/</link>
+    <description>Recent content in Categories on Kallix</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-mx</language>
-    <lastBuildDate>Tue, 08 Jun 2021 18:00:23 -0600</lastBuildDate><atom:link href="https://hugo-toha.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jun 2021 18:00:23 -0600</lastBuildDate><atom:link href="https://isa.jumpingcrab.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
