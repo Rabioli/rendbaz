@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>servicios on EsFix</title>
+    <link>https://hugo-toha.github.io/categories/servicios/</link>
+    <description>Recent content in servicios on EsFix</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Tue, 08 Jun 2021 18:00:23 -0600</lastBuildDate><atom:link href="https://hugo-toha.github.io/categories/servicios/index.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Reparación de dispositivos</title>
+      <link>https://hugo-toha.github.io/posts/reparaciones/</link>
+      <pubDate>Tue, 08 Jun 2021 18:00:23 -0600</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/reparaciones/</guid>
+      <description>Cotización y revisión gratis
+price : $50-$xxxx unit : dispositivo services: - El precio base para algo sencillo que no me tome mucho tiempo o no sea díficil de realizar es $50 - El precio máximo varia dependiendo de que es lo que tenga que realizar y los materiales que tenga que usar (como si se le rompió la pantalla a tu dispositivo) - El diagnostico siempre va a ser gratuito pero me puedo tomar un tiempo en hacerlo - Rango de tiempo de reparación 1-4 semanas (puedes comunicarte conmigo en cualquier momento)</description>
+    </item>
+    
+    <item>
+      <title>Webhosting</title>
+      <link>https://hugo-toha.github.io/posts/hosting/</link>
+      <pubDate>Tue, 08 Jun 2021 18:00:23 -0600</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/hosting/</guid>
+      <description>Puedo proveer un espacio en el servidor (donde esta página esta alojada) dedicado a mostrar y guardar o sostener (hosting) tu sitio web.
+price : $120-$1000 unit : mes services:
+ 1GB-10GB Espacio en el disco 10 GB - 100 GB Uso de datos (Las páginas web pesan KBs) Asistencia en horas laborales  </description>
+    </item>
+    
+    <item>
+      <title>Administrador de Sistemas</title>
+      <link>https://hugo-toha.github.io/posts/sys-admin/</link>
+      <pubDate>Tue, 08 Jun 2021 15:00:23 -0600</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/sys-admin/</guid>
+      <description>Puedo brindar servicios para administrar un servidor en caso de que tengas uno o planees lanzar uno, como tal puedo conseguir un dominio, montar un servidor email, nextcloud, aplicaciones web federadas o no, servicios de mensajería, entre otros. Va algo relacionado a los puntos de Hosting y Wordpress, solo que en este caso manejaría tu propio servidor en vez de montar por ejemplo wordpress en el mio. price : $200-$900 unit : proyecto services: - Tienes un proyecto o una idea pero no sabes como realizarlo ni ponerlo en el internet?</description>
+    </item>
+    
+    <item>
+      <title>Clases y tutorias</title>
+      <link>https://hugo-toha.github.io/posts/tutorias/</link>
+      <pubDate>Tue, 08 Jun 2021 15:00:23 -0600</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/tutorias/</guid>
+      <description>Clases o tutorías de temas de secundaria, preparatoria, inglés o psicología e ingeniería computacional. price : $50-$500 unit : sesión services: - Puedo ir a tu casa o puedes venir a la mía el que tanto varie el precio depende de que tan cerca me quede dependiendo de donde me encuentre - El precio varía por el tiempo que vayamos a emplear en la sesión - El precio varía dependiendo de los temas</description>
+    </item>
+    
+    <item>
+      <title>Creación de utilidades</title>
+      <link>https://hugo-toha.github.io/posts/scripts/</link>
+      <pubDate>Tue, 08 Jun 2021 15:00:23 -0600</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/scripts/</guid>
+      <description>No desarrollo programas aunque estoy disponible para unirme a un equipo. Puedo, sin embargo desarrollar alguna utilidad ligera como un script para renombrar archivos o limpiar o sincronizar ciertos datos entre servidores. price : $0-$50000 unit : proyecto services: - Estoy actualmente disponible para trabajar en algún proyecto de desarrollo de software, conozco C#, Python, Julia, Java, Crystal - y un poco de TypeScript/JavaScript - Creación de scripts (programas ligeros) para distintas tareas que tu sistema o caso de uso necesite - por ejemplo descargar algún archivo cada cierto periodo de tiempo, renombrar un grupo de archivos (en vez de que lo hagas manualmente uno por uno), etc.</description>
+    </item>
+    
+    <item>
+      <title>Wordpress</title>
+      <link>https://hugo-toha.github.io/posts/wordpress/</link>
+      <pubDate>Tue, 08 Jun 2021 15:00:23 -0600</pubDate>
+      
+      <guid>https://hugo-toha.github.io/posts/wordpress/</guid>
+      <description>Creación de sitios en wordpress u otros stacks como hugo. Hosting y dominio por tu cuenta o lo puedo mantener y administrar por un precio extra. El precio inicia en $500 por proyecto.
+ El precio depende de la complejidad del proyecto La duración del proyecto (cuanto me tardaré) Solo es el diseño del sitio, su creación y montaje No lo voy a poner en mi servidor (aunque podemos discutirlo) La mayoría de los sitios para pequeñas empresas usan Wordpress Colaboración, diseño y desarrollo ágil (mucha comunicación)  </description>
+    </item>
+    
+    
+  </channel>
+</rss>
