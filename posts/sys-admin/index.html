@@ -12,11 +12,17 @@
 <link rel="stylesheet" href="/css/navigators/navbar.css"/>
 <link rel="stylesheet" href="/css/plyr.css"/>
 <link rel="stylesheet" href="/css/flag-icon.min.css"/>
-<link rel="stylesheet" href="/css/katex.min.css">
 
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Muli:wght@300;400;500;600">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" />
+
+
+<link rel="stylesheet" href="/fontawesome/css/all.min.css"/>
+
+
+
+<link rel="stylesheet" href="/css/colortheme/colortheme.css"/>
+
 
 
 
@@ -45,8 +51,11 @@
 
 
     
-    
-  </head>
+
+
+
+
+</head>
 
   <body data-spy="scroll" data-target="#TableOfContents" data-offset="80">
     <div class="container-fluid bg-dimmed wrapper">
@@ -78,6 +87,28 @@
 
     <div class="collapse navbar-collapse lang-selector" id="top-nav-items">
       <ul class="navbar-nav ml-auto">
+      
+      
+        <li class="nav-item dropdown">
+
+<div id="theme-initialization" style="display: none;"
+  default-theme="system"></div>
+<a class="nav-link dropdown-toggle"  href="#" id="themeSelector" role="button"
+  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <img id="navbar-theme-icon-svg" src="/icons/moon-svgrepo-com.svg" width=20>
+</a>
+<div class="dropdown-menu dropdown-menu-icons-only" aria-labelledby="themeSelector">
+  <a class="dropdown-item nav-link" href="#" onclick="enableLightTheme()">
+    <img class="menu-icon-center" src="/icons/sun-svgrepo-com.svg" width=20>
+  </a>
+  <a class="dropdown-item nav-link" href="#" onclick="enableDarkTheme()">
+    <img class="menu-icon-center" src="/icons/moon-svgrepo-com.svg" width=20>
+  </a>
+  <a class="dropdown-item nav-link" href="#" onclick="useSystemTheme()">
+    <img class="menu-icon-center" src="/icons/computer-svgrepo-com.svg" width=20>
+  </a>
+</div>
+</li>
       
       </ul>
     </div>
@@ -192,7 +223,7 @@
   <div class="content">
     <div class="container p-0 read-area">
       
-      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url(https://silso.one/posts/sys-admin/hero.jpg);'>
+      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url(/posts/sys-admin/hero.jpg);'>
       </div>
 
       
@@ -254,6 +285,50 @@ El precio inicial es $150 pues hay muy pocos provedores más baratos que eso.</p
         
         <div class="col-md-6 share-buttons">
         
+            <strong>Compartir en:</strong>
+            
+            <a class="btn btn-sm facebook-btn" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsilso.one%2fposts%2fsys-admin%2f" target="_blank">
+              <i class="fab fa-facebook"></i>
+            </a>
+            
+            
+                <a class="btn btn-sm twitter-btn" href="https://twitter.com/share?url=https%3a%2f%2fsilso.one%2fposts%2fsys-admin%2f&text=Administrador%20de%20Sistemas&via=SILSO" target="_blank">
+                  <i class="fab fa-twitter"></i>
+                </a>
+            
+            
+                <a  class="btn btn-sm reddit-btn" href="https://reddit.com/submit?url=https%3a%2f%2fsilso.one%2fposts%2fsys-admin%2f&title=Administrador%20de%20Sistemas" target="_blank">
+                  <i class="fab fa-reddit"></i>
+                </a>
+            
+            
+            
+            
+                <a class="btn btn-sm linkedin-btn" href="https://www.linkedin.com/shareArticle?url=https%3a%2f%2fsilso.one%2fposts%2fsys-admin%2f&title=Administrador%20de%20Sistemas" target="_blank">
+                  <i class="fab fa-linkedin"></i>
+                </a>
+            
+            
+                <a class="btn btn-sm diaspora-btn" href="https://share.diasporafoundation.org/?title=Administrador%20de%20Sistemas&url=https%3a%2f%2fsilso.one%2fposts%2fsys-admin%2f" rel="nofollow" target="_blank">
+                  <i class="fab fa-diaspora"></i>
+                </a>
+            
+             
+                <a class="btn btn-sm mastodon-btn" href="https://mastodon.social/share?text=Administrador%20de%20Sistemas - https%3a%2f%2fsilso.one%2fposts%2fsys-admin%2f" target="_blank">
+                  <i class="fab fa-mastodon"></i>
+                </a>
+            
+            
+                 <a class="btn btn-sm whatsapp-btn" href="https://api.whatsapp.com/send?text=Administrador%20de%20Sistemas https%3a%2f%2fsilso.one%2fposts%2fsys-admin%2f" target="_blank">
+                  <i class="fab fa-whatsapp"></i>
+                </a>
+            
+            
+                <a class="btn btn-sm email-btn" href="mailto:?subject=Administrador%20de%20Sistemas&body=https%3a%2f%2fsilso.one%2fposts%2fsys-admin%2f" target="_blank">
+                  <i class="fas fa-envelope-open-text"></i>
+                </a>
+            
+          
           </div>
 
         
@@ -333,6 +408,7 @@ El precio inicial es $150 pues hay muy pocos provedores más baratos que eso.</p
 
       
       
+
       
       
 
@@ -483,8 +559,11 @@ El precio inicial es $150 pues hay muy pocos provedores más baratos que eso.</p
 <script type="text/javascript" src="/js/plyr.js"></script>
 <script type="text/javascript" src="/js/main.js"></script>
 
-<script type="text/javascript" defer src="/js/katex.min.js"></script>
-<script type="text/javascript" defer src="/js/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+
+
+<script type="text/javascript" src="/js/darkreader.js"></script>
+<script type="text/javascript" src="/js/darkmode-darkreader.js"></script>
+
 
 
     
@@ -496,5 +575,13 @@ El precio inicial es $150 pues hay muy pocos provedores más baratos que eso.</p
 </script>
 
 
-  </body>
+
+
+
+
+
+
+
+    
+</body>
 </html>
